@@ -1,5 +1,5 @@
 import { TerminalUI } from "./TerminalUI.js";
-import { auth } from './firebase.js';
+import { auth } from './static/js/firebase.js';
 import "https://cdn.socket.io/4.6.0/socket.io.min.js";
 
 
