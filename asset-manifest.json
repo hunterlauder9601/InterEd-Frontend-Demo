@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/InterEd-Frontend-Demo/static/css/main.5dbe5cac.css",
-    "main.js": "/InterEd-Frontend-Demo/static/js/main.0bd75a74.js",
+    "main.js": "/InterEd-Frontend-Demo/static/js/main.3fdd2eec.js",
     "static/media/laptop.jpg": "/InterEd-Frontend-Demo/static/media/laptop.873677d268db6c85bb77.jpg",
     "static/media/huilu.jpg": "/InterEd-Frontend-Demo/static/media/huilu.1c29ec3927385953907e.jpg",
     "static/media/cityscape.jpg": "/InterEd-Frontend-Demo/static/media/cityscape.700cd6ee51b58fee2102.jpg",
@@ -11,10 +11,10 @@
     "static/media/Go-Logo_Blue.png": "/InterEd-Frontend-Demo/static/media/Go-Logo_Blue.6a3cd1884425f3b03c7d.png",
     "index.html": "/InterEd-Frontend-Demo/index.html",
     "main.5dbe5cac.css.map": "/InterEd-Frontend-Demo/static/css/main.5dbe5cac.css.map",
-    "main.0bd75a74.js.map": "/InterEd-Frontend-Demo/static/js/main.0bd75a74.js.map"
+    "main.3fdd2eec.js.map": "/InterEd-Frontend-Demo/static/js/main.3fdd2eec.js.map"
   },
   "entrypoints": [
     "static/css/main.5dbe5cac.css",
-    "static/js/main.0bd75a74.js"
+    "static/js/main.3fdd2eec.js"
   ]
 }

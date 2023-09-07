@@ -1,9 +1,7 @@
 import { TerminalUI } from "./TerminalUI.js";
-import { auth } from './static/js/firebase.js';
 import "https://cdn.socket.io/4.6.0/socket.io.min.js";
 
-
-auth.onAuthStateChanged(function(user) {
+window.auth.onAuthStateChanged(function(user) {
 	if (user) {
 		// User is logged in
 		console.log("User is logged in:", user);
