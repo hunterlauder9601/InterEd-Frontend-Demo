@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.46c19ff3.css",
+    "main.js": "/static/js/main.64551476.js",
+    "static/media/laptop.jpg": "/static/media/laptop.873677d268db6c85bb77.jpg",
+    "static/media/huilu.jpg": "/static/media/huilu.1c29ec3927385953907e.jpg",
+    "static/media/cityscape.jpg": "/static/media/cityscape.700cd6ee51b58fee2102.jpg",
+    "static/media/desktop.jpeg": "/static/media/desktop.5f8ae8b7e2daece1c454.jpeg",
+    "static/media/hunterlauder.jpg": "/static/media/hunterlauder.9d66dd6f0a31b9de45db.jpg",
+    "static/media/os_icon1.png": "/static/media/os_icon1.d509ed463f397896d250.png",
+    "static/media/Go-Logo_Blue.png": "/static/media/Go-Logo_Blue.6a3cd1884425f3b03c7d.png",
+    "index.html": "/index.html",
+    "main.46c19ff3.css.map": "/static/css/main.46c19ff3.css.map",
+    "main.64551476.js.map": "/static/js/main.64551476.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46c19ff3.css",
+    "static/js/main.64551476.js"
+  ]
+}
