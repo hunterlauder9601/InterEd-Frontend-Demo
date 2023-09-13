@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/InterEd-Frontend-Demo/static/css/main.5dbe5cac.css",
-    "main.js": "/InterEd-Frontend-Demo/static/js/main.50a16294.js",
+    "main.css": "/InterEd-Frontend-Demo/static/css/main.49a6dcc6.css",
+    "main.js": "/InterEd-Frontend-Demo/static/js/main.a24db49e.js",
     "static/media/desktop.jpeg": "/InterEd-Frontend-Demo/static/media/desktop.5f8ae8b7e2daece1c454.jpeg",
     "static/media/laptop.jpg": "/InterEd-Frontend-Demo/static/media/laptop.d1f0a2f9f5d0917b26c5.jpg",
     "static/media/cityscape.jpg": "/InterEd-Frontend-Demo/static/media/cityscape.356031c656d617adc89b.jpg",
     "static/media/huilu.jpg": "/InterEd-Frontend-Demo/static/media/huilu.0c7cc2166d730c696d64.jpg",
     "static/media/hunterlauder.jpg": "/InterEd-Frontend-Demo/static/media/hunterlauder.1e824edb51636018dd11.jpg",
     "index.html": "/InterEd-Frontend-Demo/index.html",
-    "main.5dbe5cac.css.map": "/InterEd-Frontend-Demo/static/css/main.5dbe5cac.css.map",
-    "main.50a16294.js.map": "/InterEd-Frontend-Demo/static/js/main.50a16294.js.map"
+    "main.49a6dcc6.css.map": "/InterEd-Frontend-Demo/static/css/main.49a6dcc6.css.map",
+    "main.a24db49e.js.map": "/InterEd-Frontend-Demo/static/js/main.a24db49e.js.map"
   },
   "entrypoints": [
-    "static/css/main.5dbe5cac.css",
-    "static/js/main.50a16294.js"
+    "static/css/main.49a6dcc6.css",
+    "static/js/main.a24db49e.js"
   ]
 }
