@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/InterEd-Frontend-Demo/static/css/main.965d57ea.css",
-    "main.js": "/InterEd-Frontend-Demo/static/js/main.4aef5e48.js",
-    "static/js/961.bbede84b.chunk.js": "/InterEd-Frontend-Demo/static/js/961.bbede84b.chunk.js",
+    "main.js": "/InterEd-Frontend-Demo/static/js/main.c5f79280.js",
+    "static/js/961.088e7ce6.chunk.js": "/InterEd-Frontend-Demo/static/js/961.088e7ce6.chunk.js",
     "static/js/369.a5b1ce6f.chunk.js": "/InterEd-Frontend-Demo/static/js/369.a5b1ce6f.chunk.js",
     "static/js/802.23b43c82.chunk.js": "/InterEd-Frontend-Demo/static/js/802.23b43c82.chunk.js",
     "static/js/709.ad958601.chunk.js": "/InterEd-Frontend-Demo/static/js/709.ad958601.chunk.js",
     "static/js/291.18fb45be.chunk.js": "/InterEd-Frontend-Demo/static/js/291.18fb45be.chunk.js",
     "static/js/588.c1466864.chunk.js": "/InterEd-Frontend-Demo/static/js/588.c1466864.chunk.js",
-    "static/js/384.87b45b06.chunk.js": "/InterEd-Frontend-Demo/static/js/384.87b45b06.chunk.js",
+    "static/js/384.aee42d49.chunk.js": "/InterEd-Frontend-Demo/static/js/384.aee42d49.chunk.js",
     "static/js/523.548f1622.chunk.js": "/InterEd-Frontend-Demo/static/js/523.548f1622.chunk.js",
     "static/js/721.f5e228fb.chunk.js": "/InterEd-Frontend-Demo/static/js/721.f5e228fb.chunk.js",
     "static/js/788.e59ec48f.chunk.js": "/InterEd-Frontend-Demo/static/js/788.e59ec48f.chunk.js",
@@ -36,14 +36,14 @@
     "static/media/python.svg": "/InterEd-Frontend-Demo/static/media/python.cc28545d1b2a592dee3ae83c5c44dd5e.svg",
     "static/media/docker-icon.svg": "/InterEd-Frontend-Demo/static/media/docker-icon.46abefbff2a50ac96052df797fd89d6d.svg",
     "main.965d57ea.css.map": "/InterEd-Frontend-Demo/static/css/main.965d57ea.css.map",
-    "main.4aef5e48.js.map": "/InterEd-Frontend-Demo/static/js/main.4aef5e48.js.map",
-    "961.bbede84b.chunk.js.map": "/InterEd-Frontend-Demo/static/js/961.bbede84b.chunk.js.map",
+    "main.c5f79280.js.map": "/InterEd-Frontend-Demo/static/js/main.c5f79280.js.map",
+    "961.088e7ce6.chunk.js.map": "/InterEd-Frontend-Demo/static/js/961.088e7ce6.chunk.js.map",
     "369.a5b1ce6f.chunk.js.map": "/InterEd-Frontend-Demo/static/js/369.a5b1ce6f.chunk.js.map",
     "802.23b43c82.chunk.js.map": "/InterEd-Frontend-Demo/static/js/802.23b43c82.chunk.js.map",
     "709.ad958601.chunk.js.map": "/InterEd-Frontend-Demo/static/js/709.ad958601.chunk.js.map",
     "291.18fb45be.chunk.js.map": "/InterEd-Frontend-Demo/static/js/291.18fb45be.chunk.js.map",
     "588.c1466864.chunk.js.map": "/InterEd-Frontend-Demo/static/js/588.c1466864.chunk.js.map",
-    "384.87b45b06.chunk.js.map": "/InterEd-Frontend-Demo/static/js/384.87b45b06.chunk.js.map",
+    "384.aee42d49.chunk.js.map": "/InterEd-Frontend-Demo/static/js/384.aee42d49.chunk.js.map",
     "523.548f1622.chunk.js.map": "/InterEd-Frontend-Demo/static/js/523.548f1622.chunk.js.map",
     "721.f5e228fb.chunk.js.map": "/InterEd-Frontend-Demo/static/js/721.f5e228fb.chunk.js.map",
     "788.e59ec48f.chunk.js.map": "/InterEd-Frontend-Demo/static/js/788.e59ec48f.chunk.js.map",
@@ -62,6 +62,6 @@
   },
   "entrypoints": [
     "static/css/main.965d57ea.css",
-    "static/js/main.4aef5e48.js"
+    "static/js/main.c5f79280.js"
   ]
 }
